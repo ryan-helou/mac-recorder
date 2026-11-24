@@ -1,0 +1,21 @@
+# Dependencies / build output
+node_modules/
+dist/
+build/
+.next/
+.build/
+*.app/
+DerivedData/
+*.xcuserstate
+
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# AI tool files (kept on disk, never tracked)
+.claude/
+CLAUDE.md
+AGENTS.md
